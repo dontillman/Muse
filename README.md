@@ -2,6 +2,9 @@
 
 JavaScript simulation of the Triadex Muse
 
+![muse2](https://github.com/user-attachments/assets/2472c03a-5e85-4474-a251-20f20bb78da5)
+
+
 The Muse was a digital algorithmic music composing machine invented in 1969 by Marvin Minsky and Edward Fredkin at the Massachusetts Institute of Technology.  It was built with the digital logic circuitry of the day; gates, registers, and counters in simple integrated circuits.
 
 It's a fascinating device, and since there were only a small number built, and a tiny few actually operational 40-something years later, I built a JavaScript simluation along with an extensive writeup. 
